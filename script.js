@@ -16,7 +16,7 @@ class Particles {
     this.l = Math.random() * 25 + 15;
 
     this.speedX = Math.random() * 2;
-    this.speedY = Math.random() * 15 + 10;
+    this.speedY = Math.random() * 15 + 11;
     this.color = 'white';
   }
   update() {
